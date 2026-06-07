@@ -2,4 +2,5 @@
   <Project Path="Exercicio1-ApresentacaoPessoal/Exercicio1-ApresentacaoPessoal.csproj" />
   <Project Path="Exercicio2-CadastroProduto/Exercicio2-CadastroProduto.csproj" />
   <Project Path="Exercicio3-CalculadoraSimples/Exercicio3-CalculadoraSimples.csproj" />
+  <Project Path="Exercicio4-VerificadorDeIdade/Exercicio4-VerificadorDeIdade.csproj" />
 </Solution>
